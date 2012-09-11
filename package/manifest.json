@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Cecil Fixer",
+	"version": "0.4",
+	
+	"description": "Fixes Cecil, no Popups, resources page has middle click",
+	
+	"content_scripts": [
+		{
+			"matches": ["*://cecil.auckland.ac.nz/Cecil.aspx*"],
+			"js": ["popupFixer.js"]
+		},
+		{
+			"matches": ["*://cecil.auckland.ac.nz/FormsDetailsView/NodeDetails.aspx*"],
+			"js": ["jquery-1.7.2.min.js", "resourcesInjector.js"],
+			"all_frames": true
+		}
+	],
+	"web_accessible_resources": [
+		"jquery-1.7.2.min.js",
+		"resourcesFixer.js"
+	],
+   "icons": {
+	  "128": "cecil128.png",
+	  "48": "cecil48.png"
+   }
+}
