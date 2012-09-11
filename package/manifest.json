@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	
 	"name": "Cecil Fixer",
-	"version": "0.4",
+	"version": "0.4.1",
 	
 	"description": "Fixes Cecil, no Popups, resources page has middle click",
 	
