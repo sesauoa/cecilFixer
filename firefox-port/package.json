@@ -2,14 +2,11 @@
   "name": "cecilfixer",
   "title": "Cecil Fixer",
   "id": "jid1-HVqYxFb0KC7BNA",
-  "description": "	Fixes Cecil, no Popups. 
-					
-					Ported to Firefox, get the original Chrome app at 
-					https://chrome.google.com/webstore/detail/cecil-fixer/ajdepjdpjmhllnhamfjnckiogfmajnjd?hl=en",
+  "description": "Fixes Cecil, stops those pesky session expiry pop-ups from appearing. \r\rPorted to Firefox from Chrome. Get the original Chrome app at: \rhttps://chrome.google.com/webstore/detail/cecil-fixer/ajdepjdpjmhllnhamfjnckiogfmajnjd?hl=en",
   "author": "sgoo",
-  "contributors": "Thomas Paulin",
   "homepage": "www.scottg.co.nz",	
   "icon": "data/cecil48.png",
+  "icon64": "data/cecil64.png",
   "license": "MPL 2.0",
-  "version": "0.4.2"
+  "version": "0.4.1"
 }
