@@ -1,9 +1,15 @@
 {
-  "name": "firefox-port",
-  "title": "firefox-port",
+  "name": "cecilfixer",
+  "title": "Cecil Fixer",
   "id": "jid1-HVqYxFb0KC7BNA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "	Fixes Cecil, no Popups. 
+					
+					Ported to Firefox, get the original Chrome app at 
+					https://chrome.google.com/webstore/detail/cecil-fixer/ajdepjdpjmhllnhamfjnckiogfmajnjd?hl=en",
+  "author": "sgoo",
+  "contributors": "Thomas Paulin",
+  "homepage": "www.scottg.co.nz",	
+  "icon": "data/cecil48.png",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.4.2"
 }
