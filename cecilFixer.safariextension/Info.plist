@@ -22,18 +22,18 @@
 		<dict>
 			<key>End</key>
 			<array>
-				<string>package/popupFixer.js</string>
-				<string>package/resourcesFixer.js</string>
+				<string>package/duplicates/popupFixer.js</string>
+				<string>package/duplicates/resourcesFixer.js</string>
 			</array>
 			<key>Start</key>
 			<array>
 				<string>package/port.js</string>
-				<string>package/jquery-1.7.2.min.js</string>
+				<string>package/duplicates/jquery-1.7.2.min.js</string>
 			</array>
 		</dict>
 	</dict>
 	<key>DeveloperIdentifier</key>
-	<string>R5Q77J4992</string>
+	<string></string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>
