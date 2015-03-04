@@ -1,1 +1,4 @@
 *.zip
+.DS_Store
+cecilFixer.safariextension/package/duplicates/
+*.safariExtz
