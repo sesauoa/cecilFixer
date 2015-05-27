@@ -11,4 +11,7 @@ To build for Safari simply run safariBuild.sh then open Safari and navigate to D
 
 ##Info
 Author: [Scott Goodhew](https://github.com/sgoo)
-Maintainer: [Saren Currie](http://github.com/SarenCurrie)
+
+Maintainer: [Saren Currie](https://github.com/SarenCurrie)
+
+Contributors: [Thomas Paulin](https://github.com/thomaspaulin)
